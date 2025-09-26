@@ -1,3 +1,6 @@
+# Copyright © 2025 UChicago Argonne, LLC All right reserved
+# Full license accessible at https://github.com/AdvancedPhotonSource/DONUT/blob/main/LICENSE
+
 from sim_SIO_gpu import *
 
 param_shapes = [11, 21, 21, 21]
