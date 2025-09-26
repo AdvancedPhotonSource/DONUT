@@ -1,3 +1,6 @@
+# Copyright © 2025 UChicago Argonne, LLC All right reserved
+# Full license accessible at https://github.com/AdvancedPhotonSource/DONUT/blob/main/LICENSE
+
 # Multi-GPU parallelized simulations
 
 from math import *

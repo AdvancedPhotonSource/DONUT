@@ -1,3 +1,6 @@
+# Copyright © 2025 UChicago Argonne, LLC All right reserved
+# Full license accessible at https://github.com/AdvancedPhotonSource/DONUT/blob/main/LICENSE
+
 from sim_SIO_gpu import *
 
 constant_thickness = np.full((64, 64), 117, dtype='float32')
